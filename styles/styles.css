@@ -1,3 +1,11 @@
+
+/**item image**/
+img{
+  margin-left: 1rem;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
 /** set color for cloth items**/
 .bg-black {
   color:black;
@@ -26,4 +34,41 @@
 /**set colors for rating**/
 .fa-star, .fa-star-o {
   color:yellow;
+}
+
+/**font settings and a tag settings on the module**/
+a {
+  text-decoration: none;
+}
+/**brand name settings**/
+h6 {
+  font-size: 1.3rem;
+  color:black;
+  margin-left: 2.5rem;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: auto
+}
+/**settings for cloth description**/
+p{
+  color: black;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+/**price settings **/
+.price{
+  color:red;
+  margin-left: .5rem;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.strikethrough{
+  color:black;
+  text-decoration: line-through;
+}
+
+.savevalueInfo {
+  margin-left: 2rem;
 }
