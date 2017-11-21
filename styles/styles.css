@@ -72,3 +72,10 @@ p{
 .savevalueInfo {
   margin-left: 2rem;
 }
+
+/**compare button settings**/
+.comparefucntion {
+  width: 6rem;
+  height: 2rem;
+  margin-left: 2rem;
+}
