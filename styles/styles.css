@@ -1,20 +1,27 @@
 .bg-black {
-  background: black;
+  color:black;
 }
 
 .bg-red{
-  background: red;
+  color:red;
 }
 
 .bg-white {
-  background: white;  
+  color:black;
 }
 
 .bg-green {
-  background: green;
+  color:green;
 }
 
 .bg-blue {
-  background: blue;
+  color:blue;
 }
 
+.bg-brown{
+  color:brown;
+}
+
+.fa-star, .fa-star-o {
+  color:yellow;
+}
