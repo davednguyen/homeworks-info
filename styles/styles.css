@@ -32,10 +32,16 @@ img{
 }
 
 /**set colors for rating**/
+.rating{
+  
+}
 .fa-star, .fa-star-o {
   color:yellow;
 }
-
+.ratenumber{
+  color: black;
+  font-color:black;
+}
 /**font settings and a tag settings on the module**/
 a {
   text-decoration: none;
@@ -78,4 +84,6 @@ p{
   width: 6rem;
   height: 2rem;
   margin-left: 2rem;
+  color: black;
+  font-style:normal;
 }
