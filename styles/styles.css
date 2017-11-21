@@ -1,3 +1,4 @@
+/** set color for cloth items**/
 .bg-black {
   color:black;
 }
@@ -22,6 +23,7 @@
   color:brown;
 }
 
+/**set colors for rating**/
 .fa-star, .fa-star-o {
   color:yellow;
 }
