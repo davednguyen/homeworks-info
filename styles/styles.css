@@ -1,4 +1,11 @@
 /****************************main modules page******************************************/
+
+  /** modules style ***/
+.module{
+  display: inline-block
+}
+
+
 /**item image**/
   img{
     margin-left: 1rem;
