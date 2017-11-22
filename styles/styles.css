@@ -87,3 +87,56 @@ p{
   color: black;
   font-style:normal;
 }
+
+/**style for compare section**/
+ul li{
+  list-style: none;
+  
+}
+.deleteItem{
+  border-bottom-style: none;
+}
+ /** close item button style**/
+li{
+  display: inline-block
+}
+
+li .deleteItem{
+  display: block;
+  margin-left: 2.5rem;
+}
+
+/**buttons style in compare section**/
+.compareItemsButton, .removeAllItem {
+  display: block;
+  width: 8rem;
+  height: 2rem;
+  margin-left:9rem;
+}
+
+/**style for remove all items link**/
+.removeAllItem{
+  color: blue;
+}
+/**sections between items and buttons**/
+.col-1, .col-2{
+  display: inline-block;
+}
+
+.col-2{
+  width:inherit;
+}
+
+/**buttons in compare sections**/
+.compare-section button{
+  border-bottom-style:solid;
+}
+
+.compareItemsButton {
+  margin-bottom: 1rem;
+}
+
+/**seting for the a tag**/
+a{
+  color: black;
+}
