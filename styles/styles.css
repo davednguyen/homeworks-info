@@ -1,142 +1,144 @@
-
+/****************************main modules page******************************************/
 /**item image**/
-img{
-  margin-left: 1rem;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom: auto;
-}
-/** set color for cloth items**/
-.bg-black {
-  color:black;
-}
+  img{
+    margin-left: 1rem;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  /** set color for cloth items**/
+  .bg-black {
+    color:black;
+  }
 
-.bg-red{
-  color:red;
-}
+  .bg-red{
+    color:red;
+  }
 
-.bg-white {
-  color:black;
-}
+  .bg-white {
+    color:black;
+  }
 
-.bg-green {
-  color:green;
-}
+  .bg-green {
+    color:green;
+  }
 
-.bg-blue {
-  color:blue;
-}
+  .bg-blue {
+    color:blue;
+  }
 
-.bg-brown{
-  color:brown;
-}
+  .bg-brown{
+    color:brown;
+  }
 
-/**set colors for rating**/
-.rating{
-  
-}
-.fa-star, .fa-star-o {
-  color:yellow;
-}
-.ratenumber{
-  color: black;
-  font-color:black;
-}
-/**font settings and a tag settings on the module**/
-a {
-  text-decoration: none;
-}
-/**brand name settings**/
-h6 {
-  font-size: 1.3rem;
-  color:black;
-  margin-left: 2.5rem;
-  margin-right: auto;
-  margin-bottom: auto;
-  margin-top: auto
-}
-/**settings for cloth description**/
-p{
-  color: black;
-  margin-top: auto;
-  margin-bottom: auto;
-}
-/**price settings **/
-.price{
-  color:red;
-  margin-left: .5rem;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom: auto;
-}
+  /**set colors for rating**/
+  .rating{
 
-.strikethrough{
-  color:black;
-  text-decoration: line-through;
-}
+  }
+  .fa-star, .fa-star-o {
+    color:yellow;
+  }
+  .ratenumber{
+    color: black;
+    font-color:black;
+  }
+  /**font settings and a tag settings on the module**/
+  a {
+    text-decoration: none;
+  }
+  /**brand name settings**/
+  h6 {
+    font-size: 1.3rem;
+    color:black;
+    margin-left: 2.5rem;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto
+  }
+  /**settings for cloth description**/
+  p{
+    color: black;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  /**price settings **/
+  .price{
+    color:red;
+    margin-left: .5rem;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
 
-.savevalueInfo {
-  margin-left: 2rem;
-}
+  .strikethrough{
+    color:black;
+    text-decoration: line-through;
+  }
 
-/**compare button settings**/
-.comparefucntion {
-  width: 6rem;
-  height: 2rem;
-  margin-left: 2rem;
-  color: black;
-  font-style:normal;
-}
+  .savevalueInfo {
+    margin-left: 2rem;
+  }
 
-/**style for compare section**/
-ul li{
-  list-style: none;
-  
-}
-.deleteItem{
-  border-bottom-style: none;
-}
- /** close item button style**/
-li{
-  display: inline-block
-}
+  /**compare button settings**/
+  .comparefucntion {
+    width: 6rem;
+    height: 2rem;
+    margin-left: 2rem;
+    color: black;
+    font-style:normal;
+  }
 
-li .deleteItem{
-  display: block;
-  margin-left: 2.5rem;
-}
 
-/**buttons style in compare section**/
-.compareItemsButton, .removeAllItem {
-  display: block;
-  width: 8rem;
-  height: 2rem;
-  margin-left:9rem;
-}
 
-/**style for remove all items link**/
-.removeAllItem{
-  color: blue;
-}
-/**sections between items and buttons**/
-.col-1, .col-2{
-  display: inline-block;
-}
+/**************************style for compare section***************************/
+  ul li{
+    list-style: none;
 
-.col-2{
-  width:inherit;
-}
+  }
+  .deleteItem{
+    border-bottom-style: none;
+  }
+   /** close item button style**/
+  li{
+    display: inline-block
+  }
 
-/**buttons in compare sections**/
-.compare-section button{
-  border-bottom-style:solid;
-}
+  li .deleteItem{
+    display: block;
+    margin-left: 2.5rem;
+  }
 
-.compareItemsButton {
-  margin-bottom: 1rem;
-}
+  /**buttons style in compare section**/
+  .compareItemsButton, .removeAllItem {
+    display: block;
+    width: 8rem;
+    height: 2rem;
+    margin-left:9rem;
+  }
 
-/**seting for the a tag**/
-a{
-  color: black;
-}
+  /**style for remove all items link**/
+  .removeAllItem{
+    color: blue;
+  }
+  /**sections between items and buttons**/
+  .col-1, .col-2{
+    display: inline-block;
+  }
+
+  .col-2{
+    width:inherit;
+  }
+
+  /**buttons in compare sections**/
+  .compare-section button{
+    border-bottom-style:solid;
+  }
+
+  .compareItemsButton {
+    margin-bottom: 1rem;
+  }
+
+  /**seting for the a tag**/
+  a{
+    color: black;
+  }
