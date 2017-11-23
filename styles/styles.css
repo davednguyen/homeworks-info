@@ -148,3 +148,14 @@
   a{
     color: black;
   }
+  /**categories checkbox styles**/
+.category{
+  display: block;
+  width: 20rem;
+  float: left;
+}
+
+.items-list{
+  display: block;
+  float: right;
+}
